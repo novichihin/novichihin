@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Hey 👋, I'm Stepa Novichihin
 
 I am a versatilist and easily adapt to different hats (Backend Developer 🖥️) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -19,15 +20,16 @@ I am a versatilist and easily adapt to different hats (Backend Developer 🖥️
 <br>
 
 ### 🔨 Languages and Tools:
-<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/CPP.svg" alt="CPP" height="42px"/> </a> 
-<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Python-Dark.svg" alt="Python" height="42px"/> </a> 
-<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/C.svg" alt="C" height="42px"/> </a> 
-<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Git.svg" alt="Git" height="42px"/> </a> 
-<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Django.svg" alt="Django" height="42px"/> </a> 
-<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Flask-Dark.svg" alt="Flask" height="42px"/> </a> 
-<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Linux-Dark.svg" alt="Linux" height="42px"/> </a> 
-<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/QT-Dark.svg" alt="QT" height="42px"/> </a> 
-<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Swift.svg" alt="Swift" height="42px"/> </a> 
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/CPP.svg" alt="CPP" height="50px"/> </a> 
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Python-Dark.svg" alt="Python" height="50px"/> </a> 
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/C.svg" alt="C" height="50px"/> </a> 
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Git.svg" alt="Git" height="50px"/> </a> 
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Django.svg" alt="Django" height="50px"/> </a> 
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Flask-Dark.svg" alt="Flask" height="50px"/> </a> 
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Linux-Dark.svg" alt="Linux" height="50px"/> </a> 
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/QT-Dark.svg" alt="QT" height="50px"/> </a> 
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Swift.svg" alt="Swift" height="50px"/> </a> 
+
 <br>
 
 
