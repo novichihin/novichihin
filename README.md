@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Hey 👋, I'm Stepa Novichihin
 
 I am a versatilist and easily adapt to different hats (Backend Developer 🖥️) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
@@ -31,14 +30,5 @@ I am a versatilist and easily adapt to different hats (Backend Developer 🖥️
 <a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Swift.svg" alt="Swift" height="50px"/> </a> 
 
 <br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/novichihin/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/novichihin/github-stats-transparent/output/generated/languages.svg)
-
-</a>
 
 <br>
