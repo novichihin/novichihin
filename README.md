@@ -13,7 +13,7 @@ I am a versatilist and easily adapt to different hats (Backend Developer 🖥️
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/novichihin?tab=repositories)
 - 💬 &nbsp; Ask me about anything with modern technology, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [Telegram](https://t.me/snovichihin)
-- 📝 &nbsp; Checkout my [resume]()
+- 📝 &nbsp; Checkout my [resume](https://disk.yandex.com/i/QlrURO-j2IXZFw)
 - 📚 &nbsp; When I'm free, I read books, watch documentaries or attend events in Moscow.
 
 <br>
