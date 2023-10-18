@@ -28,7 +28,8 @@ I am a versatilist and easily adapt to different hats (Backend Developer 🖥️
 <a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Linux-Dark.svg" alt="Linux" height="50px"/> </a> 
 <a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/QT-Dark.svg" alt="QT" height="50px"/> </a> 
 <a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Swift.svg" alt="Swift" height="50px"/> </a> 
-
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/PHP-Dark.svg" alt="PHP" height="50px"/> </a>
+<a href=""> <img align="left" src="https://raw.githubusercontent.com/novichihin/novichihin/main/icons/Laravel-Dark.svg" alt="Laravel" height="50px"/> </a>
 <br>
 
 <br>
